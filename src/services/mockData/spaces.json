@@ -1,0 +1,67 @@
+[
+  {
+    "id": "home",
+    "name": "홈",
+    "icon": "Home",
+    "sort_order": 0,
+    "space_type": "home",
+    "stats": {
+      "totalContent": 125,
+      "activeMembers": 1247,
+      "thisWeek": 89,
+      "engagement": 78
+    }
+  },
+  {
+    "id": "courses",
+    "name": "강의",
+    "icon": "BookOpen",
+    "sort_order": 1,
+    "space_type": "course",
+    "stats": {
+      "totalContent": 56,
+      "activeMembers": 423,
+      "thisWeek": 12,
+      "engagement": 85
+    }
+  },
+  {
+    "id": "forums",
+    "name": "커뮤니티",
+    "icon": "MessageSquare",
+    "sort_order": 2,
+    "space_type": "forum",
+    "stats": {
+      "totalContent": 234,
+      "activeMembers": 789,
+      "thisWeek": 45,
+      "engagement": 72
+    }
+  },
+  {
+    "id": "events",
+    "name": "이벤트",
+    "icon": "Calendar",
+    "sort_order": 3,
+    "space_type": "event",
+    "stats": {
+      "totalContent": 12,
+      "activeMembers": 567,
+      "thisWeek": 3,
+      "engagement": 91
+    }
+  },
+  {
+    "id": "resources",
+    "name": "자료실",
+    "icon": "FolderOpen",
+    "sort_order": 4,
+    "space_type": "resource",
+    "stats": {
+      "totalContent": 89,
+      "activeMembers": 345,
+      "thisWeek": 8,
+      "engagement": 68
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "type": "lesson_completed",
+    "user": {
+      "user_id": "user2",
+      "display_name": "이지수",
+      "photo_url": "",
+      "expertise_tag": "Korean Learner"
+    },
+    "content_title": "Korean Grammar Basics - 기본 문법",
+    "space_name": "강의",
+    "created_at": "2024-01-20T11:30:00Z"
+  },
+  {
+    "Id": 2,
+    "type": "post_created",
+    "user": {
+      "user_id": "user3",
+      "display_name": "박민수",
+      "photo_url": "",
+      "expertise_tag": "Beginner"
+    },
+    "content_title": "K-drama 추천해 주세요!",
+    "space_name": "커뮤니티",
+    "created_at": "2024-01-20T09:15:00Z"
+  },
+  {
+    "Id": 3,
+    "type": "event_joined",
+    "user": {
+      "user_id": "user4",
+      "display_name": "최영희",
+      "photo_url": "",
+      "expertise_tag": "Intermediate"
+    },
+    "content_title": "Weekly Korean Practice Session",
+    "space_name": "이벤트",
+    "created_at": "2024-01-20T08:45:00Z"
+  },
+  {
+    "Id": 4,
+    "type": "resource_downloaded",
+    "user": {
+      "user_id": "user5",
+      "display_name": "김철수",
+      "photo_url": "",
+      "expertise_tag": "Advanced"
+    },
+    "content_title": "한국어 발음 가이드 PDF",
+    "space_name": "자료실",
+    "created_at": "2024-01-19T20:30:00Z"
+  },
+  {
+    "Id": 5,
+    "type": "comment_added",
+    "user": {
+      "user_id": "user6",
+      "display_name": "정미영",
+      "photo_url": "",
+      "expertise_tag": "Korean Learner"
+    },
+    "content_title": "한국어 학습 팁 공유",
+    "space_name": "커뮤니티",
+    "created_at": "2024-01-19T18:20:00Z"
+  },
+  {
+    "Id": 6,
+    "type": "like_added",
+    "user": {
+      "user_id": "user7",
+      "display_name": "한상우",
+      "photo_url": "",
+      "expertise_tag": "Beginner"
+    },
+    "content_title": "Korean Conversation Practice - 회화 연습",
+    "space_name": "강의",
+    "created_at": "2024-01-19T16:10:00Z"
+  }
+]

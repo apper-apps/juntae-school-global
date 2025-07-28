@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "title": "Weekly Korean Practice Session",
+    "description": "매주 진행되는 한국어 회화 연습 세션입니다. 다른 학습자들과 함께 대화 연습을 해보세요.",
+    "starts_at": "2024-01-25T19:00:00Z",
+    "url": "https://zoom.us/j/example123",
+    "space_id": "events",
+    "participants": 28
+  },
+  {
+    "Id": 2,
+    "title": "Korean Cultural Workshop",
+    "description": "한국의 전통 문화와 현대 문화를 함께 알아보는 워크샵입니다.",
+    "starts_at": "2024-01-30T18:00:00Z",
+    "url": "https://youtube.com/live/example456",
+    "space_id": "events",
+    "participants": 45
+  },
+  {
+    "Id": 3,
+    "title": "K-pop Korean Learning Session",
+    "description": "K-pop 가사를 통해 한국어를 배우는 특별한 세션입니다.",
+    "starts_at": "2024-02-02T20:00:00Z",
+    "url": "https://zoom.us/j/example789",
+    "space_id": "events",
+    "participants": 67
+  },
+  {
+    "Id": 4,
+    "title": "Korean Cooking Class",
+    "description": "한국 요리를 만들면서 관련 한국어 표현을 배워보세요.",
+    "starts_at": "2024-02-05T17:00:00Z",
+    "url": "https://youtube.com/live/example101",
+    "space_id": "events",
+    "participants": 23
+  },
+  {
+    "Id": 5,
+    "title": "Business Korean Workshop",
+    "description": "직장에서 사용하는 한국어 표현과 비즈니스 매너를 배웁니다.",
+    "starts_at": "2024-02-08T19:30:00Z",
+    "url": "https://zoom.us/j/example202",
+    "space_id": "events",
+    "participants": 34
+  }
+]

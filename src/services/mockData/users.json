@@ -1,0 +1,51 @@
+[
+  {
+    "user_id": "user1",
+    "display_name": "김준태 선생님",
+    "photo_url": "",
+    "bio": "한국어 교육 전문가로 10년 이상의 경험을 가지고 있습니다. 학습자들의 성공적인 한국어 습득을 도와드립니다.",
+    "expertise_tag": "Korean Teacher"
+  },
+  {
+    "user_id": "user2",
+    "display_name": "이지수",
+    "photo_url": "",
+    "bio": "한국어를 배운 지 2년째입니다. 같이 공부하면서 서로 도움을 주고받아요!",
+    "expertise_tag": "Korean Learner"
+  },
+  {
+    "user_id": "user3",
+    "display_name": "박민수",
+    "photo_url": "",
+    "bio": "한국 문화에 관심이 많은 초급 학습자입니다.",
+    "expertise_tag": "Beginner"
+  },
+  {
+    "user_id": "user4",
+    "display_name": "최영희",
+    "photo_url": "",
+    "bio": "중급 수준의 한국어 실력을 가지고 있으며, 한국 드라마를 좋아합니다.",
+    "expertise_tag": "Intermediate"
+  },
+  {
+    "user_id": "user5",
+    "display_name": "김철수",
+    "photo_url": "",
+    "bio": "고급 한국어 학습자이며, 한국어 교육에도 관심이 있습니다.",
+    "expertise_tag": "Advanced"
+  },
+  {
+    "user_id": "user6",
+    "display_name": "정미영",
+    "photo_url": "",
+    "bio": "K-pop을 통해 한국어를 배우기 시작했습니다.",
+    "expertise_tag": "Korean Learner"
+  },
+  {
+    "user_id": "user7",
+    "display_name": "한상우",
+    "photo_url": "",
+    "bio": "한국어 공부를 시작한 지 얼마 안 된 초보자입니다.",
+    "expertise_tag": "Beginner"
+  }
+]

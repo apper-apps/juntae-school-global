@@ -1,0 +1,118 @@
+[
+  {
+    "Id": 1,
+    "type": "lesson",
+    "title": "Korean Grammar Basics - 기본 문법",
+    "description": "한국어 기본 문법을 배우는 첫 번째 강의입니다.",
+    "adilo_url": "https://adilo.example.com/lesson1",
+    "space_id": "courses",
+    "author": {
+      "user_id": "user1",
+      "display_name": "김준태 선생님",
+      "photo_url": "",
+      "expertise_tag": "Korean Teacher"
+    },
+    "created_at": "2024-01-20T10:00:00Z",
+    "is_pinned": true,
+    "likes": 45,
+    "comments": 12,
+    "sort_order": 1
+  },
+  {
+    "Id": 2,
+    "type": "post",
+    "title": "한국어 학습 팁 공유",
+    "body": "안녕하세요! 한국어를 효과적으로 학습하는 방법에 대해 공유하고 싶습니다. 매일 30분씩 꾸준히 공부하는 것이 가장 중요합니다. 또한 한국 드라마나 K-pop을 통해 자연스럽게 언어에 노출되는 것도 좋은 방법입니다.",
+    "space_id": "forums",
+    "author": {
+      "user_id": "user2",
+      "display_name": "이지수",
+      "photo_url": "",
+      "expertise_tag": "Korean Learner"
+    },
+    "created_at": "2024-01-19T14:30:00Z",
+    "is_pinned": false,
+    "likes": 23,
+    "comments": 8
+  },
+  {
+    "Id": 3,
+    "type": "event",
+    "title": "Weekly Korean Practice Session",
+    "description": "매주 진행되는 한국어 회화 연습 세션입니다. 다른 학습자들과 함께 대화 연습을 해보세요.",
+    "starts_at": "2024-01-25T19:00:00Z",
+    "url": "https://zoom.us/j/example123",
+    "space_id": "events",
+    "participants": 28,
+    "created_at": "2024-01-18T09:00:00Z"
+  },
+  {
+    "Id": 4,
+    "type": "resource",
+    "title": "한국어 발음 가이드 PDF",
+    "description": "한국어 자음과 모음의 정확한 발음을 익힐 수 있는 가이드입니다.",
+    "tag": "발음",
+    "file_url": "https://example.com/files/pronunciation-guide.pdf",
+    "space_id": "resources",
+    "created_at": "2024-01-17T11:00:00Z",
+    "downloads": 156
+  },
+  {
+    "Id": 5,
+    "type": "lesson",
+    "title": "Korean Conversation Practice - 회화 연습",
+    "description": "일상 대화에서 자주 사용되는 표현들을 배우고 연습합니다.",
+    "adilo_url": "https://adilo.example.com/lesson2",
+    "space_id": "courses",
+    "author": {
+      "user_id": "user1",
+      "display_name": "김준태 선생님",
+      "photo_url": "",
+      "expertise_tag": "Korean Teacher"
+    },
+    "created_at": "2024-01-16T15:00:00Z",
+    "is_pinned": false,
+    "likes": 38,
+    "comments": 15,
+    "sort_order": 2
+  },
+  {
+    "Id": 6,
+    "type": "post",
+    "title": "K-drama 추천해 주세요!",
+    "body": "한국어 공부에 도움이 되는 드라마를 찾고 있습니다. 초급자도 이해하기 쉬운 드라마가 있을까요? 여러분의 추천을 기다립니다!",
+    "space_id": "forums",
+    "author": {
+      "user_id": "user3",
+      "display_name": "박민수",
+      "photo_url": "",
+      "expertise_tag": "Beginner"
+    },
+    "created_at": "2024-01-15T12:45:00Z",
+    "is_pinned": false,
+    "likes": 31,
+    "comments": 22
+  },
+  {
+    "Id": 7,
+    "type": "event",
+    "title": "Korean Cultural Workshop",
+    "description": "한국의 전통 문화와 현대 문화를 함께 알아보는 워크샵입니다.",
+    "starts_at": "2024-01-30T18:00:00Z",
+    "url": "https://youtube.com/live/example456",
+    "space_id": "events",
+    "participants": 45,
+    "created_at": "2024-01-14T08:30:00Z"
+  },
+  {
+    "Id": 8,
+    "type": "resource",
+    "title": "Korean Vocabulary Flashcards",
+    "description": "일상생활에서 자주 사용되는 한국어 단어 500개의 플래시카드입니다.",
+    "tag": "어휘",
+    "file_url": "https://example.com/files/vocabulary-flashcards.pdf",
+    "space_id": "resources",
+    "created_at": "2024-01-13T16:20:00Z",
+    "downloads": 289
+  }
+]
